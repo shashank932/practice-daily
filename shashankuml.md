@@ -1,11 +1,11 @@
-# 🛡️ Automated Fraud Detection & Alerting System
+#  Automated Fraud Detection & Alerting System
 
 ## 1. Project Overview
 The **Automated Fraud Detection & Alerting System** is a real-time intelligent system designed to monitor financial transactions, detect fraudulent activities using rule-based and ML-driven techniques, and immediately alert stakeholders to minimize financial loss.
 
 The system integrates **authentication mechanisms**, **behavioral analytics**, **risk scoring**, and **machine learning models** to identify suspicious activities such as credit card fraud, account takeover, phishing, and identity theft.
 
----
+
 
 ## 2. System Scope & Objectives
 
@@ -19,7 +19,7 @@ The system integrates **authentication mechanisms**, **behavioral analytics**, *
 ### System Boundary:
 All activities shown inside the UML system boundary belong to the **Automated Fraud Detection System**, while actors interact externally.
 
----
+
 
 ## 3. Actors (External Entities)
 
@@ -207,6 +207,7 @@ All activities shown inside the UML system boundary belong to the **Automated Fr
 This **Automated Fraud Detection & Alerting System** provides a robust, scalable, and intelligent solution to modern financial fraud challenges by combining UML-driven design, machine learning, and automated response mechanisms.
 
 It ensures **security, transparency, and efficiency** across the entire transaction lifecycle.
+
 
 
 
